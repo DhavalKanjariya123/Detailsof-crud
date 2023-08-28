@@ -1,0 +1,46 @@
+{
+  "cart": [
+    {
+      "id": 2,
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/x/u/h/m-st2-vebnor-original-imagpw7w3ha4tv2h.jpeg?q=70",
+      "price": 550
+    },
+    {
+      "id": 3,
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/8/w/1/s-st10-vebnor-original-imagppnhpz3r5zur.jpeg?q=70",
+      "price": 650
+    },
+    {
+      "id": 1,
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/x/l/0/xl-g-star-greenflair-original-imagm5yttbh8gfqj.jpeg?q=70",
+      "price": 450
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/x/l/0/xl-g-star-greenflair-original-imagm5yttbh8gfqj.jpeg?q=70",
+      "price": 450
+    },
+    {
+      "id": 2,
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/x/u/h/m-st2-vebnor-original-imagpw7w3ha4tv2h.jpeg?q=70",
+      "price": 550
+    },
+    {
+      "id": 3,
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/8/w/1/s-st10-vebnor-original-imagppnhpz3r5zur.jpeg?q=70",
+      "price": 650
+    }
+  ],
+  "Logindetail": [
+    {
+      "id": "dhaval@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "hetasvi@gmail.com",
+      "password": "admin"
+    }
+  ]
+}
